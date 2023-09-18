@@ -14,7 +14,7 @@ We do not collect any personal information like names, email addresses, or phone
 
 ### Non-Personal Information
 
-We collect non-personal information like device IDs, country of access, etc., to provide a better gaming experience.
+We do not collect non-personal information like device IDs, country of access, etc...
 
 ### Google Play Games Services
 
